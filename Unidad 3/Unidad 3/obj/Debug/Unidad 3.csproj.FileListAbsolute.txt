@@ -1,0 +1,11 @@
+C:\Users\soned\Videos\programas VS\Unidad 3\Unidad 3\obj\Debug\Unidad 3.csproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas VS\Unidad 3\Unidad 3\obj\Debug\Unidad 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\soned\Videos\programas VS\Unidad 3\Unidad 3\obj\Debug\Unidad_3.Form1.resources
+C:\Users\soned\Videos\programas VS\Unidad 3\Unidad 3\obj\Debug\Unidad_3.Properties.Resources.resources
+C:\Users\soned\Videos\programas VS\Unidad 3\Unidad 3\obj\Debug\Unidad 3.csproj.GenerateResource.cache
+C:\Users\soned\Videos\programas VS\Unidad 3\Unidad 3\obj\Debug\Unidad 3.csproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas VS\Unidad 3\Unidad 3\bin\Debug\Unidad 3.exe.config
+C:\Users\soned\Videos\programas VS\Unidad 3\Unidad 3\bin\Debug\Unidad 3.exe
+C:\Users\soned\Videos\programas VS\Unidad 3\Unidad 3\bin\Debug\Unidad 3.pdb
+C:\Users\soned\Videos\programas VS\Unidad 3\Unidad 3\obj\Debug\Unidad 3.exe
+C:\Users\soned\Videos\programas VS\Unidad 3\Unidad 3\obj\Debug\Unidad 3.pdb
